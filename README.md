@@ -14,6 +14,5 @@ Components:
           * const valuesTable = [["Daniela", "daniela@teste.com.br", 23, "21/03/2016"], 
                            ["João", "joao@teste.com.br", 30, "21/05/2016"], 
                            ["Laura", "laura@teste.com.br", 28, "21/12/2017"], 
-                           ["Juliano", "juliano@teste.com.br", 20, "21/05/2018"]];
-                           
-  
+                           ["Juliano", "juliano@teste.com.br", 20, "21/05/2018"]]; 
+<img src="https://raw.githubusercontent.com/MarcioSB/Component_React/master/comp_table.PNG">
