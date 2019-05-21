@@ -1,0 +1,35 @@
+*{
+    margin: 2px;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-size: 20px;
+    align-items: center;
+}
+
+table {
+    height: 40px;
+    width: 100%;
+    background:ghostwhite;
+    border: 1px solid;
+    border-color: black; 
+}
+
+table > thead {
+    height: 40px;
+    width: 100%;
+    background:darkred;
+    font-weight: bold;
+    color: white;
+    border: 5px solid;
+}
+
+table > tbody {
+    height: 40px;
+    width: 100%;
+    background:ghostwhite;
+    color: black;
+    border: 50px solid;
+    border-color: black;
+    text-align: center;
+}
