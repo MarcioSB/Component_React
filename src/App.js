@@ -8,8 +8,9 @@ function App() {
                    ["João", "joao@teste.com.br", 30, "21/05/2016"], 
                    ["Laura", "laura@teste.com.br", 28, "21/12/2017"], 
                    ["Juliano", "juliano@teste.com.br", 20, "21/05/2018"]];
+  const headFilter = ["Nome", "e-mail", "Idade" ];
   return (
-      <Table headTable={cabecalho} valuesTable={valores} />
+      <Table headTable={cabecalho} valuesTable={valores} headFilter={headFilter} />
   );
 }
 
